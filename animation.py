@@ -1,6 +1,11 @@
+import sys
 import pygame
 import random
-import sys
+
+
+
+from agent import Agent
+from road import Road
 
 # Inicializar Pygame
 pygame.init()
